@@ -1,0 +1,1 @@
+Sample scala functions.
